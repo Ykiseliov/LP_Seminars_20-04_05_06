@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Напишите прогр-му, которая принимает на вход два числа и проверяет, является ли первое квадратом второго
