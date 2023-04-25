@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Напишите прогрумму, которая выводит случайное трехзначное
+//  число и удаляет вторую цифру этого числа
+// 456 -> 46
+// 782 ->72
+// 918 -> 98
+
