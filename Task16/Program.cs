@@ -4,3 +4,9 @@
 // -4, 16 -> да
 // 25, 5 -> да
 
+Console.Write("Enter 1 num: ");
+int number1 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Enter 2 num: ");
+int number2 = Convert.ToInt32(Console.ReadLine());
+
+
