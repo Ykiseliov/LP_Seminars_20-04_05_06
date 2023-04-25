@@ -10,8 +10,8 @@
         int number =  Convert.ToInt32(Console.ReadLine());
         if (number<0) number *= -1;
         if (number >= 100 && number <= 999) 
-         {
-             int thirdDigit = number % 10;
+        {
+             int thirdDigit = (number / 1) % 10;
              Console.WriteLine($"Третья цифра числа {number} будет {thirdDigit}");
          }
          else if (number >= 1000 && number <= 9999) {
