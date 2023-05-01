@@ -7,3 +7,11 @@
 // 4 | 64
 // 5 | 125
 
+Console.Write("Введите число: ");
+       int n = Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine("\nТаблица кубов чисел от 1 до {0}:", n);
+        for (int i = 1; i <= n; i++) 
+        {
+            Console.WriteLine("{0} в кубе = {1}", i, i * i * i);
+        }
