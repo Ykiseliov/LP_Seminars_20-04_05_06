@@ -4,3 +4,6 @@
 // 456-> 3
 // 78-> 2
 // 89126-> 5
+
+Console.Write("Введите число: ");
+string input = Console.ReadLine();
